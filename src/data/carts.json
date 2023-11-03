@@ -1,0 +1,29 @@
+{
+    "carts-items": [
+        {
+            "id": 1,
+            "nombre": "Camiseta de algodón",
+            "precio": 19.99,
+            "descripcion": "Camiseta básica de algodón en varios colores",
+            "disponible": true,
+            "cantidad": 2
+        },
+        {
+            "id": 2,
+            "nombre": "Pantalones Vaqueros",
+            "precio": 29.99,
+            "descripcion": "Jeans de alta calidad para hombres y mujeres",
+            "disponible": true,
+            "cantidad": 1
+
+        },
+        {
+            "id": 3,
+            "nombre": "Zapatos Deportivos",
+            "precio": 49.99,
+            "descripcion": "Zapatos cómodos para correr y hacer ejercicio",
+            "disponible": true,
+            "cantidad": 3
+        }
+    ]
+}
